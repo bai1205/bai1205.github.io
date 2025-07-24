@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Hanbo Zheng's Personal Homepage"
 title_separator          : "-"
@@ -23,7 +23,7 @@ repository               : "bai1205/bai1205.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Hanbo Zheng÷£∫≤∞ÿ"
+  name             : "÷£∫≤∞ÿ"
   pronouns         : # example: "she/her"  
   bio              : "Student"
   location         : "China"
