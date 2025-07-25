@@ -36,7 +36,8 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
 
 ## Project
 
-<a href="https://github.com/bai1205/toybox-defense-vr" target="_blank" style="text-decoration:none; color:inherit;">
+<a href="https://github.com/bai1205/Toybox-Defense-VR" target="_blank" style="text-decoration:none; color:inherit;">
+
   <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:20px; transition: box-shadow 0.3s; cursor:pointer;">
     <div style="font-size:20px; font-weight:bold; margin-bottom:5px;">
       Toybox Defense VR
@@ -47,7 +48,8 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
   </div>
 </a>
 
-<a href="https://github.com/bai1205/rusted-rhythms" target="_blank" style="text-decoration:none; color:inherit;">
+<a href="https://github.com/bai1205/Rusted-Rhythms" target="_blank" style="text-decoration:none; color:inherit;">
+
   <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:20px; transition: box-shadow 0.3s; cursor:pointer;">
     <div style="font-size:20px; font-weight:bold; margin-bottom:5px;">
       Rusted Rhythms
