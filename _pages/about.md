@@ -2,7 +2,6 @@
 permalink: /
 title: "About Me"
 author_profile: true
-markdown: kramdown
 redirect_from: 
   - /about/
   - /about.html
@@ -35,11 +34,9 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
   </div>
 </div>
 
-<h2>项目展示</h2>
+<h2>项目展示</h2
 
-<a href="https://github.com/bai1205/Toybox-Defense-VR" target="_blank" style="text-decoration:none; color:inherit;">
-
-<a href="https://github.com/bai1205/Toybox-Defense-VR" target="_blank" style="text-decoration:none; color:inherit;">  
+<a href="https://github.com/bai1205/Toybox-Defense-VR" target="_blank" style="text-decoration:none; color:inherit;"> 
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:20px; transition: box-shadow 0.3s; cursor:pointer;">
     <div style="font-size:20px; font-weight:bold; margin-bottom:5px;">
       Toybox Defense VR
@@ -48,10 +45,8 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
       一款房间尺度的 VR 塔防游戏，结合沉浸式交互与手部操作，使用 Unity 和 Oculus Quest 2 开发。
     </div>
   </div>
-</a>
-
 <a href="https://github.com/bai1205/Rusted-Rhythms" target="_blank" style="text-decoration:none; color:inherit;">
-  <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:20px; transition: box-shadow 0.3s; cursor:pointer;">
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:20px; transition: box-shadow 0.3s; cursor:pointer;">
     <div style="font-size:20px; font-weight:bold; margin-bottom:5px;">
       Rusted Rhythms
     </div>
@@ -59,7 +54,8 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
       类似 Beat Saber 的 VR 音乐节奏游戏，支持光剑击打、音符生成、自定义谱面设计等核心功能。
     </div>
   </div>
-</a>
+
+
 
 
 
