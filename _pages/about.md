@@ -18,8 +18,8 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
 <div style="border:1px solid #eee; border-radius:10px; padding:15px; margin-bottom:20px; display:flex; align-items:center;">
   <img src="../images/bristol.png" alt="UCL Logo" style="width:60px; height:60px; margin-right:20px;">
   <div>
-    <strong style="font-size:18px;">University College London</strong><br>
-    MSc Scientific and Data Intensive Computing<br>
+    <strong style="font-size:18px;">University of Bristol</strong><br>
+   MSc Immersive Technologies (Virtual and Augmented Reality)<br>
     <em>Sept. 2024 – Sept. 2025</em>
   </div>
 </div>
@@ -28,9 +28,9 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
   <img src="../images/xjtlu.png" alt="XJTLU Logo" style="width:60px; height:60px; margin-right:20px;">
   <div>
     <strong style="font-size:18px;">Xi’an Jiaotong Liverpool University</strong><br>
-    BSc Information and Computing Science<br>
+    BEng Digital Media Technology<br>
     <em>Sept. 2020 – June 2024</em><br>
-    • First Class Honours
+    • Upper Second Class Honours
   </div>
 </div>
 
@@ -44,7 +44,7 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
       Toybox Defense VR
     </div>
     <div style="font-size:15px; color:#555;">
-      一款房间尺度的 VR 塔防游戏，结合沉浸式交互与手部操作，使用 Unity 和 Oculus Quest 2 开发。
+      Toybox Defense VR is a virtual reality tower defense game designed for Oculus Quest. Players build turrets and use a hand-mounted laser to defend a toy-themed sandbox environment from waves of enemy units.
     </div>
   </div>
 
@@ -55,7 +55,7 @@ You can find my CV here: [Curriculum Vitae](../assets/personal/bai.pdf).
       Rusted Rhythms
     </div>
     <div style="font-size:15px; color:#555;">
-      类似 Beat Saber 的 VR 音乐节奏游戏，支持光剑击打、音符生成、自定义谱面设计等核心功能。
+      Rusted Rhythms is a VR rhythm-based sandbox experience set in an abandoned factory. Players interact with objects to trigger rhythmic loops and audio effects, enabling simple music creation through environmental exploration.
     </div>
   </div>
 
